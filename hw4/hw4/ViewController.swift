@@ -96,21 +96,18 @@ final class WelcomeViewController: UIViewController {
             commentLabel.text = "2"
         case 20...30:
             commentLabel.text = "3"
-
         case 30...40:
             commentLabel.text = "4"
         case 40...50:
             commentLabel.text = "! ! ! ! ! ! ! ! ! "
         case 50...60:
             commentLabel.text = "big boy"
-
         case 60...70:
             commentLabel.text = "70 70 70 moreeeee"
         case 70...80:
             commentLabel.text = "⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ "
         case 80...90:
             commentLabel.text = "80+\n go higher!"
-
         case 90...100:
             commentLabel.text = "100!! to the moon!!"
         default:
