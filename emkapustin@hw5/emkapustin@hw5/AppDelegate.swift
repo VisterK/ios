@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  emkapustin@PW1
+//  hw5
 //
-//  Created by Egor Kapustin on 01.10.2022.
+//  Created by Egor Kapustin on 25.09.2022.
 //
 
 import UIKit
@@ -18,7 +18,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     // MARK: UISceneSession Lifecycle
-
     func application(_ application: UIApplication, configurationForConnecting connectingSceneSession: UISceneSession, options: UIScene.ConnectionOptions) -> UISceneConfiguration {
         // Called when a new scene session is being created.
         // Use this method to select a configuration to create the new scene with.
@@ -33,3 +32,4 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 }
+
